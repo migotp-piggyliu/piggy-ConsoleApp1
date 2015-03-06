@@ -1,0 +1,13 @@
+D:\Work\Product\DIY\Samples\ConsoleApp1\ConsoleApp1\bin\Debug\NLog.config
+D:\Work\Product\DIY\Samples\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Work\Product\DIY\Samples\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Work\Product\DIY\Samples\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Work\Product\DIY\Samples\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.dll
+D:\Work\Product\DIY\Samples\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\Product\DIY\Samples\ConsoleApp1\ConsoleApp1\bin\Debug\NLog.dll
+D:\Work\Product\DIY\Samples\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.xml
+D:\Work\Product\DIY\Samples\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\Product\DIY\Samples\ConsoleApp1\ConsoleApp1\bin\Debug\NLog.xml
+D:\Work\Product\DIY\Samples\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Work\Product\DIY\Samples\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Work\Product\DIY\Samples\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
